@@ -167,3 +167,13 @@ FPGA。FPGA是完全可编程的，但具有陡峭的学习曲线。由于频率
 * 除专线边界网关外在统一公网网关（例如：弹性公网IP和IPv6公网产品等）进行更深一步的落地  
 * 不同于公有云，边缘云的机房站点分布离散、数量众多，但因为仅仅服务邻近的客户，每个站点的容量较为有限，如何将低成本的硬件网关与之结合（例如：私有云）。
 * 软硬件协同设计（例如：XGW-x86中连续内存空间的完全可编程性简化长尾服务的频繁表更新）。
+
+---  
+参考资料：  
+https://www.intel.com/content/www/us/en/products/sku/218656/intel-tofino-2-0-tbps-2-pipelines/specifications.html  
+https://www.researchgate.net/figure/Simplified-Tofino-block-diagram_fig1_361921804  
+https://www.sciencedirect.com/science/article/pii/S0140366424000094  
+https://p4.org/p4-spec/docs/p4runtime-spec-working-draft-html-version.html  
+https://www.usenix.org/conference/nsdi24/presentation/pan  
+https://developer.aliyun.com/article/1649435
+https://docs.jdcloud.com/en/direct-connection/border-gateway-configuration  
